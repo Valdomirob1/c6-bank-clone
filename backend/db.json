@@ -1,0 +1,9 @@
+{
+  "users": [
+    {
+      "name": "Administrador",
+      "taxId": "12345678900",
+      "password": "000000"
+    }
+  ]
+}
